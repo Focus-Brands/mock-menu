@@ -94,7 +94,7 @@
   "products": [
     {
       "name": "Moe Meat Moe Cheese Burrito",
-      "chainId": "17627330",
+      "chainId": "613269",
       "masterId": "PROD_MOE-MEAT-MOE-CHEESE-BURRITO-GH",
       "badges": [],
       "images": [
@@ -124,7 +124,7 @@
     },
     {
       "name": "Moe Meat Moe Cheese Bowl",
-      "chainId": "17627334",
+      "chainId": "613040",
       "masterId": "PROD_MOE-MEAT-MOE-CHEESE-BOWL-GH",
       "badges": [],
       "images": [
@@ -154,7 +154,7 @@
     },
     {
       "name": "Edgy Veggie Bowl",
-      "chainId": "17627335",
+      "chainId": "613087",
       "masterId": "PROD_EDGY-VEGGIE-BOWL-GH",
       "badges": [],
       "images": [
@@ -184,7 +184,7 @@
     },
     {
       "name": "Edgy Veggie Burrito",
-      "chainId": "17627336",
+      "chainId": "612992",
       "masterId": "PROD_EDGY-VEGGIE-BURRITO-GH",
       "badges": [],
       "images": [
@@ -214,7 +214,7 @@
     },
     {
       "name": "Homewrecker",
-      "chainId": "17627331",
+      "chainId": "613227",
       "masterId": "ITEM_HW-GH",
       "badges": [],
       "images": [
@@ -244,7 +244,7 @@
     },
     {
       "name": "Homewrecker Bowl",
-      "chainId": "17627332",
+      "chainId": "613134",
       "masterId": "PROD_HW-BOWL-GH",
       "badges": [],
       "images": [
@@ -274,7 +274,7 @@
     },
     {
       "name": "Stack",
-      "chainId": "17627333",
+      "chainId": "613067",
       "masterId": "PROD_STACK-GH",
       "badges": [],
       "images": [
@@ -304,7 +304,7 @@
     },
     {
       "name": "Homewrecker",
-      "chainId": "17627338",
+      "chainId": "612966",
       "masterId": "ITEM_HW",
       "badges": [
         {
@@ -353,7 +353,7 @@
     },
     {
       "name": "Burrito",
-      "chainId": "17627337",
+      "chainId": "613078",
       "masterId": "PROD_BURRITO",
       "badges": [
         {
@@ -396,7 +396,7 @@
     },
     {
       "name": "Bowl",
-      "chainId": "17627340",
+      "chainId": "613180",
       "masterId": "PROD_BOWL",
       "badges": [
         {
@@ -439,7 +439,7 @@
     },
     {
       "name": "Homewrecker Bowl",
-      "chainId": "17627339",
+      "chainId": "613151",
       "masterId": "PROD_HW-BOWL",
       "badges": [
         {
@@ -482,7 +482,7 @@
     },
     {
       "name": "Nachos",
-      "chainId": "17627341",
+      "chainId": "613167",
       "masterId": "PROD_NACHOS",
       "badges": [
         {
@@ -519,7 +519,7 @@
     },
     {
       "name": "Quesadilla",
-      "chainId": "17627342",
+      "chainId": "613086",
       "masterId": "PROD_QUESADILLA",
       "badges": [],
       "images": [
@@ -549,7 +549,7 @@
     },
     {
       "name": "Chicken Club Quesadilla",
-      "chainId": "17627343",
+      "chainId": "613170",
       "masterId": "PROD_CCQ-QUESADILLA",
       "badges": [],
       "images": [
@@ -579,7 +579,7 @@
     },
     {
       "name": "Salad",
-      "chainId": "17627344",
+      "chainId": "613125",
       "masterId": "PROD_SALAD",
       "badges": [],
       "images": [
@@ -609,7 +609,7 @@
     },
     {
       "name": "Stack",
-      "chainId": "17627345",
+      "chainId": "613235",
       "masterId": "PROD_STACK",
       "badges": [],
       "images": [
@@ -639,7 +639,7 @@
     },
     {
       "name": "One Taco",
-      "chainId": "17627346",
+      "chainId": "613166",
       "masterId": "ITEM_REVEL-ONE-TACO_V2-BYO",
       "badges": [],
       "images": [
@@ -669,7 +669,7 @@
     },
     {
       "name": "Three Tacos",
-      "chainId": "17627347",
+      "chainId": "612963",
       "masterId": "ITEM_REVEL-THREE-TACOS_V2-BYO",
       "badges": [],
       "images": [
@@ -699,7 +699,7 @@
     },
     {
       "name": "Side Guacamole",
-      "chainId": "17627351",
+      "chainId": "613297",
       "masterId": "ITEM_SIDE_GUAC",
       "badges": [],
       "images": [
@@ -729,7 +729,7 @@
     },
     {
       "name": "Cup Guacamole",
-      "chainId": "17627349",
+      "chainId": "613082",
       "masterId": "ITEM_CUP_GUAC",
       "badges": [
         {
@@ -766,7 +766,7 @@
     },
     {
       "name": "Bowl Guacamole",
-      "chainId": "17627348",
+      "chainId": "613111",
       "masterId": "ITEM_BOWL_GUAC",
       "badges": [],
       "images": [
@@ -796,7 +796,7 @@
     },
     {
       "name": "Side Queso",
-      "chainId": "17627350",
+      "chainId": "613130",
       "masterId": "ITEM_SIDE_QUESO",
       "badges": [],
       "images": [
@@ -826,7 +826,7 @@
     },
     {
       "name": " Cup Queso",
-      "chainId": "17627352",
+      "chainId": "613021",
       "masterId": "ITEM_CUP_QUESO",
       "badges": [],
       "images": [
@@ -856,7 +856,7 @@
     },
     {
       "name": "Bowl Queso",
-      "chainId": "17627353",
+      "chainId": "613017",
       "masterId": "ITEM_BOWL_QUESO",
       "badges": [],
       "images": [
@@ -997,7 +997,7 @@
     },
     {
       "name": "Bottled Coke Zero 20 oz",
-      "chainId": "17627356",
+      "chainId": "613020",
       "masterId": "PROD_BOTTLED-COKE-ZERO",
       "badges": [],
       "images": [],
@@ -1018,7 +1018,7 @@
     },
     {
       "name": "Regular Fountain Drink",
-      "chainId": "17627354",
+      "chainId": "613202",
       "masterId": "ITEM_REGULAR-FOUNTAIN-DRINK",
       "badges": [],
       "images": [
@@ -1048,7 +1048,7 @@
     },
     {
       "name": "Large Fountain Drink",
-      "chainId": "17627355",
+      "chainId": "612958",
       "masterId": "ITEM_LARGE-FOUNTAIN-DRINK",
       "badges": [],
       "images": [
@@ -1078,7 +1078,7 @@
     },
     {
       "name": "Bottled Water",
-      "chainId": "17627357",
+      "chainId": "613169",
       "masterId": "ITEM_BOTTLED-WATER",
       "badges": [],
       "images": [
@@ -1108,7 +1108,7 @@
     },
     {
       "name": "Bottled 20oz Drinks",
-      "chainId": "17627358",
+      "chainId": "613215",
       "masterId": "ITEM_BOTTLED-SOFT-DRINKS-20-OZ",
       "badges": [],
       "images": [
@@ -1138,7 +1138,7 @@
     },
     {
       "name": "Kids Drink",
-      "chainId": "17627359",
+      "chainId": "613042",
       "masterId": "ITEM_KIDS-DRINK",
       "badges": [],
       "images": [
@@ -1168,7 +1168,7 @@
     },
     {
       "name": "Kids Apple Juice",
-      "chainId": "17627360",
+      "chainId": "613006",
       "masterId": "ITEM_KIDS-APPLE-JUICE",
       "badges": [],
       "images": [],
@@ -1189,7 +1189,7 @@
     },
     {
       "name": "Kids Milk",
-      "chainId": "17627361",
+      "chainId": "613112",
       "masterId": "ITEM_KIDS-MILK",
       "badges": [],
       "images": [],
@@ -1210,7 +1210,7 @@
     },
     {
       "name": "Coffee",
-      "chainId": "17627362",
+      "chainId": "613188",
       "masterId": "ITEM_COFFEE",
       "badges": [],
       "images": [],
@@ -1231,7 +1231,7 @@
     },
     {
       "name": "Orange Juice",
-      "chainId": "17627363",
+      "chainId": "613106",
       "masterId": "ITEM_ORANGE-JUICE",
       "badges": [],
       "images": [],
@@ -1252,7 +1252,7 @@
     },
     {
       "name": "Peace Tea",
-      "chainId": "17627364",
+      "chainId": "613002",
       "masterId": "ITEM_PEACE-TEA",
       "badges": [],
       "images": [
@@ -1282,7 +1282,7 @@
     },
     {
       "name": "Hubert's Fountain Lemonade",
-      "chainId": "17627365",
+      "chainId": "613035",
       "masterId": "ITEM_HUBERTS-FOUNTAIN-LEMONADE",
       "badges": [],
       "images": [
@@ -1312,7 +1312,7 @@
     },
     {
       "name": "Icee",
-      "chainId": "17627366",
+      "chainId": "613051",
       "masterId": "ITEM_ICEE",
       "badges": [],
       "images": [
@@ -1342,7 +1342,7 @@
     },
     {
       "name": "Taco Kit",
-      "chainId": "17627369",
+      "chainId": "613287",
       "masterId": "ITEM_BUILD-YOUR-OWN-TACO-KIT",
       "badges": [],
       "images": [
@@ -1372,7 +1372,7 @@
     },
     {
       "name": "Fajita Kit",
-      "chainId": "17627367",
+      "chainId": "613288",
       "masterId": "ITEM_BUILD-YOUR-OWN-FAJITA-KIT",
       "badges": [],
       "images": [
@@ -1402,7 +1402,7 @@
     },
     {
       "name": "Nacho Kit",
-      "chainId": "17627368",
+      "chainId": "613286",
       "masterId": "ITEM_BUILD-YOUR-OWN-NACHO-KIT",
       "badges": [],
       "images": [
@@ -1432,7 +1432,7 @@
     },
     {
       "name": "Kids Burrito",
-      "chainId": "17627371",
+      "chainId": "613148",
       "masterId": "PROD_KIDS-BURRITO",
       "badges": [],
       "images": [
@@ -1462,7 +1462,7 @@
     },
     {
       "name": "Kids Taco",
-      "chainId": "17627370",
+      "chainId": "613137",
       "masterId": "PROD_KIDS-TACO",
       "badges": [],
       "images": [
@@ -1492,7 +1492,7 @@
     },
     {
       "name": "Kids Quesadilla",
-      "chainId": "17627372",
+      "chainId": "613245",
       "masterId": "PROD_KIDS-QUESADILLA",
       "badges": [],
       "images": [
